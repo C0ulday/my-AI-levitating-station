@@ -45,7 +45,7 @@ Linear Hall ──► Arduino UNO (PID) ──► MOSFET ──► coil (12 V)
       └──────────── field of the N52 magnet ◄──────┘  (in the top of the cube)
 ```
 
-> ⚠️ **Two different Hall sensors:** a **digital A3144** inside the cube (docked / removed), and a **linear** Hall in the station (position feedback for the PID loop). Don't mix them up.
+> ⚠️ **Two different Hall sensors:** a **digital A3144** inside the cube (docked / removed), and a **linear** Hall in the station (position feedback for the PID loop).
 
 ---
 
